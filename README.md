@@ -118,43 +118,15 @@ curl "http://localhost:3000/search?keyword=nike+shoes&aiProvider=huggingface&mod
 ```json
 {
     "keyword": "nike shoes",
-    "total": 5,
+    "total": ,
     "products": [
         {
-            "title": "Shop on eBay",
-            "price": "$20.00",
-            "link": "https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw",
-            "description": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. For the latest, go to CNN iReport.com.",
-            "itemNumber": "-"
+            "title": " ",
+            "price": "",
+            "link": " ",
+            "description": " ",
+            "itemNumber": " "
         },
-        {
-            "title": "Shop on eBay",
-            "price": "$20.00",
-            "link": "https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw",
-            "description": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. For the latest, go to CNN iReport.com.",
-            "itemNumber": "-"
-        },
-        {
-            "title": "New Nike Travis Scott x Air Max 270 React ENG Cactus Trails Size 10.5 Mens TS",
-            "price": "$319.99",
-            "link": "https://www.ebay.com/itm/326292226350?_skw=nike+shoes&epid=26039819473&itmmeta=01K2FCZQ4TVDZ1V3JA2J8CXMNZ&hash=item4bf888412e:g:VuEAAOSwkb5m~snB&itmprp=enc%3AAQAKAAAAwFkggFvd1GGDu0w3yXCmi1dCqdg2BcJ8EY81hbm6Yoxv247voVwbZ8ljJOW07%2BnOFy1g23GFldAJu05Ih4SzivDXRW1cHT16MwPor5zqQX5H%2BkES1IF5ssNNbJzg7WDHV%2Fb3Td9IHY7%2BRrWBS%2BZi0DchWaq%2F9KwCffUC2k7taG75Rl8Yt32%2F66nmu0KAgTGV7gv5%2BlfCStTi8z%2BHUW1PpSqXMEMchxJ2SAZusAQF2%2FnFtHnACGruYIcbWXT421lkog%3D%3D%7Ctkp%3ABlBMUM7y_uyTZg",
-            "description": "A brand-new, unused, and unworn item (including handmade items) in the original ... Read more about the condition about the Nike Air Max 270 React. The shoe is available in black and white, and comes in at a range of sizes. It is not available in any other colors.",
-            "itemNumber": "326292226350"
-        },
-        {
-            "title": "Nike Air Max Command Mens US Size 7-15 Black/White Running Casual Shoes NEW✅",
-            "price": "$87.89",
-            "link": "https://www.ebay.com/itm/225272243923?_skw=nike+shoes&epid=26058781072&itmmeta=01K2FCZQ4T88MQNFEXCEGE8FMG&hash=item347345a6d3:g:JXwAAOSwVKBjhHtE&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1eSaG89%2Fh2sh%2FzxbNqvL3mUCnbPm66F9bSDSB9Il3sXMpXULHzq2jTxmHprB9p4JbJSxfBB%2B9uPAVrbFT%2BxH1H9AsZlVMRvJReOkhfQmB4Wfg4HpzEHSvpQB2VmGT06GJxFvd7N78yYX941ikkkrXGlDUSDk7ai0RcjhyEpAXnQMARRTnWORmHU21WxgDYNefD%2FV4nbFIbBKjwVPEQtcBOi%2BNTwYXqbj%2BOwlvUkp5JpSz6gdg%2B%2FSfT0JIUcf5eTu4%2FCyZzocEI34T%2BW20rJ%2BNf%2BBoCmft6JywvgFnnL9bNa8A%3D%3D%7Ctkp%3ABk9SR87y_uyTZg",
-            "description": "New with box: A brand-new, unused, and unworn item (including handmade items) in the original ... Read more about the condition. Item specifics: The condition of the item, its dimensions, its release date and more. The product line: Nike Air Max.",
-            "itemNumber": "225272243923"
-        },
-        {
-            "title": "Nike Dunk Low Retro SE Armory Navy Gum Men Casual Shoes Sneakers HQ1931-400",
-            "price": "$119.99",
-            "link": "https://www.ebay.com/itm/316018494491?_skw=nike+shoes&epid=10072263485&itmmeta=01K2FCZQ4TM90JTRKHC1AZR08X&hash=item49942b8c1b:g:gh8AAOSw0FNnTRpL&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ckICdWEhuuiANt28ZlAhJpdyTmWpDSzkYVQM5C0Rq3My%2BjXz%2BUsmH7X5deDolBNR27fJ7LjzpfghE%2B5BKdAlxh0Hz55IU7kRzj%2FqjnOhv3Vxee2PHIKLZjzm3ydq5A94ZrjwSwVXtDPBDRuUkCh9t7TQks2mZhtjBbrQljvRjtGDtbYam24MyNKD5fNgb9kde2c1SE5jvhrr96Trpuyr%2Fi%2FMSsdh9y9wZdSXbt4hk0JIS%2FFb5OrB%2FkYDTtXuarlJJy9Z9lAypidRKnlvu3zQX4r8XgHZ4WwtqdjvbIKJ%2FBiA%3D%3D%7Ctkp%3ABk9SR87y_uyTZg",
-            "description": "A brand-new, unused, and unworn item (including handmade items) in the original box. US Shoe Size (Baby & Toddler) is 2c ~ 10c. The shoe's size (Youth) is 10c ~ Us 7y.",
-            "itemNumber": "316018494491"
-        }
     ]
 }
 ```
@@ -238,4 +210,3 @@ npm install -g nodemon
 nodemon src/app.js
 ```
 
-**⚠️ Disclaimer**: Tool ini dibuat untuk tujuan edukasi. Pastikan untuk mematuhi terms of service eBay dan menggunakan secara bertanggung jawab.
