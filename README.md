@@ -122,7 +122,7 @@ curl "http://localhost:3000/search?keyword=nike+shoes&aiProvider=huggingface&mod
     "products": [
         {
             "title": " ",
-            "price": "",
+            "price": " ",
             "link": " ",
             "description": " ",
             "itemNumber": " "
